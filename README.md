@@ -2,8 +2,7 @@
 
 
   #                                                           👋 Hi, I'm Omshree Chinni
---
-
+---
 ###                                                       🚀 Data Scientist | AI/Ml Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omshree-chinni-a4a48a249)

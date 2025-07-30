@@ -1,7 +1,9 @@
 ###  Portfolio Overview
 
 
-# 👋 Hi, I'm Omshree Chinni
+  # 👋 Hi, I'm Omshree Chinni
+
+  https://camo.githubusercontent.com/cf58ed33d1321f2db7ceb848fc3eceae6c398fc57f132d62543fe471c4a248e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486972652532304d652d41492532464d4c253230526f6c65732d30373038303f7374796c653d666c61742d737175617265266c6f676f3d7375706572706f77657273
 
 ### 🚀 Data Scientist | AI/Ml Enthusiast
 

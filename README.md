@@ -1,15 +1,15 @@
 ###  Portfolio Overview
 
 
- #                                                           👋 Hi, I'm Omshree Chinni
+ #   👋 Hi, I'm Omshree Chinni
 
-####                                            Building the Future with AI/ML and Data_Scientist
+####  Building the Future with AI/ML and Data_Scientist
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Science+Explorer;Always+Learning+and+Building)
+   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Science+Explorer;Always+Learning+and+Building)
 
 
 ---
-###                                                       🚀 Data Scientist | AI/Ml Enthusiast
+###  🚀 Data Scientist | AI/Ml Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omshree-chinni-a4a48a249)
 [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)

@@ -71,7 +71,7 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 ## 🔥 My GitHub Contribution Graph
 
-[![Omshree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omshree-chinni&theme=github-compact)](https://github.com/omshree-chinni)
+[![Omshree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omshree3&theme=github-compact)](https://github.com/omshree-chinni)
 
 </div>
 

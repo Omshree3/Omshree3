@@ -66,6 +66,21 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 |                  |              | TensorFlow, NLTK,         | Time Management         |   docker    |
 
 ---
+
+<div align="center">
+
+## 🔥 My GitHub Contribution Graph
+
+[![Omshree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omshree-chinni&theme=github-compact)](https://github.com/omshree-chinni)
+
+</div>
+
+
+
+
+
+
+---
 ### 📊 Projects
 
 https://github.com/Omshree3/Ann-classification-churn-with-deployment

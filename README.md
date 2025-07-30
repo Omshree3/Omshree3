@@ -16,9 +16,7 @@
 
 ### 🌟 About Me
 
-I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and **Machine Learning**.  
-With a solid academic background (**CGPA 8.1**) and a **GATE Qualifier (AIR 3354)**,  
-I'm on a mission to turn data into meaningful, real-world solutions through hands-on projects, freelancing, and internships.
+I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and **Machine Learning**. With a solid academic background (**CGPA 8.1**) and a **GATE Qualifier (AIR 3354)**,  I'm on a mission to turn data into meaningful, real-world solutions through hands-on projects, freelancing, and internships.
 
 - 🧠 Strong problem-solving mindset with a passion for real-world impact  
 - 📊 Skilled in data cleaning, feature engineering, model building  

@@ -48,12 +48,12 @@ Currently diving deep into **Data Science** and **Machine Learning** through han
 
 ### 🛠️ Tech Stack
 
-| Data Science     | Programming | Tools & Libraries         | Soft Skills             |
-|------------------|-------------|----------------------------|--------------------------|
-| Data Cleaning    | Python      | pandas, NumPy, Scikit-learn | Problem Solving         |
-| Feature Engg     |             | Matplotlib, Seaborn        | Adaptability & Teamwork |
-| Machine Learning |             | TensorFlow, NLTK,         | Time Management         |
-|Deep Learning     |
+| Data Science     | Programming | Tools & Libraries         | Soft Skills             | Frame_Woek |
+|------------------|-------------|----------------------------|--------------------------|-----------|
+| Data Cleaning    | Python      | pandas, NumPy, Scikit-learn | Problem Solving         | streamli  |
+| Feature Engg     | DL , ML      | Matplotlib, Seaborn        | Adaptability & Teamwork |  flask     |
+|                  |              | TensorFlow, NLTK,         | Time Management         |   docker    |
+
 ---
 ### 📊 Projects
 

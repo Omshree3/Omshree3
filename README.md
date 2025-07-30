@@ -3,7 +3,8 @@
 
   # 👋 Hi, I'm Omshree Chinni
 
-  https://camo.githubusercontent.com/cf58ed33d1321f2db7ceb848fc3eceae6c398fc57f132d62543fe471c4a248e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486972652532304d652d41492532464d4c253230526f6c65732d30373038303f7374796c653d666c61742d737175617265266c6f676f3d7375706572706f77657273
+  [![Hire Me](https://img.shields.io/badge/Hire%20Me-AI%2FML%20Roles-07080?style=flat-square&logo=superpowers)](mailto:omshreechinni@gmail.com)
+
 
 ### 🚀 Data Scientist | AI/Ml Enthusiast
 
@@ -14,8 +15,9 @@
 
 ### 🌟 About Me
 
-I'm **Omshree Chinni**, a motivated learner with a CGPA of **8.1** and a **GATE qualifier (AIR 3354)**.  
-Currently diving deep into **Data Science** and **Machine Learning** through hands-on projects, freelancing, and internships.
+I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and **Machine Learning**.  
+With a solid academic background (**CGPA 8.1**) and a **GATE Qualifier (AIR 3354)**,  
+I'm on a mission to turn data into meaningful, real-world solutions through hands-on projects, freelancing, and internships.
 
 - 🧠 Strong problem-solving mindset with a passion for real-world impact  
 - 📊 Skilled in data cleaning, feature engineering, model building  

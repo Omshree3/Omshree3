@@ -74,7 +74,25 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 [![Omshree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omshree3&theme=github-compact)](https://github.com/omshree-chinni)
 
 </div>
+---
+## 📊 GitHub Activity
 
+<div align="center">
+
+### 🔥 Contribution Graph  
+[![Omshree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omshree3&theme=react-dark)](https://github.com/omshree-chinni)
+
+---
+
+### ⚙️ GitHub Stats  
+![Omshree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omshree3&show_icons=true&theme=radical&hide=contribs,prs)
+
+---
+
+### 💻 Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omshree3&layout=compact&theme=radical)
+
+</div>
 
 
 

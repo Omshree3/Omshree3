@@ -35,15 +35,15 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 ### 💼 Experience
 
-#### 🧪 ML Intern – AiROBOSOFT Products and Services *(Mar–Sep 2024)*
+#### 🧪 ML Intern – AiROBOSOFT Products and Services 
 - Built and maintained **end-to-end ML pipelines**
 - Involved in **data preprocessing, model training, and evaluation**
 
-#### 🧹 Data Cleaning Freelancer *(Mar 2025–Present)*
+#### 🧹 Data Cleaning Freelancer 
 - Cleaned real-world datasets by removing nulls, fixing formatting issues
 - Prepared structured data for analysis and modeling
 
-#### 🏫 Volunteer – MVJ College of Engineering *(Nov 2023–Present)*
+#### 🏫 Volunteer – MVJ College of Engineering
 - Managed college events, solved on-the-spot issues during fests
 - Gained skills in **team coordination, adaptability, and time management**
 
@@ -51,7 +51,7 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 ### 🏅 Achievements
 
-- ✅ **Qualified GATE (2025)** – AIR 3354 (IIT Roorkee)
+- ✅ **Qualified GATE (2025)** – AIR 3354 **(IIT Roorkee)**
 - 🌱 **IoT Project** – Automated Gutter Cleaning System recognized under *Swachh Bharat Abhiyan*
 - 📈 Self-taught Data Scientist with practical knowledge of Python and ML libraries
 

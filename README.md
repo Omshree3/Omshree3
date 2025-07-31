@@ -7,6 +7,11 @@
 
    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Scientist+Explorer;Always+Learning+and+Building)
 
+   
+## 📄 Resume
+[View My Resume (Enhancv)](https://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
+
 ---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/omshree-chinni-a4a48a249)

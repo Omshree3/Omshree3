@@ -10,6 +10,8 @@
    
 ## 📄 Resume
 [View My Resume (Enhancv)](https://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
+---
 [![Hire Me for Data Science](https://img.shields.io/badge/Hire%20Me-Data%20Scientist-0A66C2?style=flat-square&logo=databricks)](mailto:omshreechinni@gmail.com)
 [![| AI/ML](https://img.shields.io/badge/%20-AI%2FML%20Engineer-6F42C1?style=flat-square&logo=openai)](mailto:omshreechinni@gmail.com)
 

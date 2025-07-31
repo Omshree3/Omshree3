@@ -69,11 +69,6 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 ### 🛠️ Tech Stack
 
-| Data Science     | Programming | Tools & Libraries         | Soft Skills             | Frame_Woek |
-|------------------|-------------|----------------------------|--------------------------|-----------|
-| Data Cleaning    | Python      | pandas, NumPy, Scikit-learn | Problem Solving         | streamli  |
-| Feature Engg     | DL , ML      | Matplotlib, Seaborn        | Adaptability & Teamwork |  flask     |
-|                  |              | TensorFlow, NLTK,         | Time Management         |   docker    |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)

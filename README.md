@@ -5,7 +5,7 @@
 
 ####  Building the Future with AI/ML and Data_Scientist
 
-   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Science+Explorer;Always+Learning+and+Building)
+   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Scientist+Explorer;Always+Learning+and+Building)
 
 ---
 

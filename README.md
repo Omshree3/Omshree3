@@ -84,7 +84,6 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 </div>
 ---
-## 📊 GitHub Activity
 
 <div align="center">
 

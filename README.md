@@ -7,6 +7,8 @@
 
    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=AI%2FML+Enthusiast;Data+Scientist+Explorer;Always+Learning+and+Building)
 
+[![Resume](https://img.shields.io/badge/-My_Resume🔥-FF5733?style=for-the-badge&logo=firefox)](https://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
    
 ## 📄 Resume
 [View My Resume (Enhancv)](hhhttps:////app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)

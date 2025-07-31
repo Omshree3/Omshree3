@@ -80,6 +80,26 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
 
+### 🧠 Tools & Strengths
+
+| 💻 Tooling        | 📊 Data Viz & Math Skills     |
+|------------------|-------------------------------|
+| ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | 📈 Matplotlib, Seaborn, Plotly |
+| 🧪 Jupyter, Colab | 📚 Probability & Statistics   |
+| 🧰 Git & GitHub   | 🧮 Linear Algebra, Calculus   |
+| 🔍 Debugging Pro  | 🧠 Intuition + Mathematical Rigor |
+
+---
+
+### 📉 Data Visualization Examples
+
+> 🧪 From exploring distributions to storytelling dashboards...
+
+- **📍 Seaborn heatmaps for correlation insights**
+- **📍 Matplotlib + annotations for model performance**
+- **📍 Interactive Plotly dashboards for EDA**
+- **📍 Explainable ML with SHAP & Feature Importance**
+  
 ---
 
 <div align="center">

@@ -103,6 +103,7 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 </div>
 
+![Demo](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/demo.gif)
 
 
 

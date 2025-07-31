@@ -75,6 +75,16 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 | Feature Engg     | DL , ML      | Matplotlib, Seaborn        | Adaptability & Teamwork |  flask     |
 |                  |              | TensorFlow, NLTK,         | Time Management         |   docker    |
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
+
 ---
 
 <div align="center">

@@ -9,6 +9,8 @@
 
 [![Resume](https://img.shields.io/badge/-My_Resume🔥-FF5733?style=for-the-badge&logo=firefox)](https://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
+[![Click Me](https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif)](https://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
    
 ## 📄 Resume
 [View My Resume (Enhancv)](hhhttps:////app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)

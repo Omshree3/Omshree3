@@ -26,6 +26,7 @@
 
 
 </div>
+[![GitHub Project](https://img.shields.io/badge/GitHub-Project-black?logo=github)](https://github.com/Omshree3/Ann-classification-churn-with-deployment)
 
 
 ---

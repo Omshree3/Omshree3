@@ -26,8 +26,8 @@
 
 
 </div>
-[![GitHub Project](https://img.shields.io/badge/GitHub-Project-black?logo=github)](https://github.com/Omshree3/Ann-classification-churn-with-deployment)
 
+[![GitHub](https://img.shields.io/badge/-GitHub_Project-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Ann-classification-churn-with-deployment)
 
 ---
 

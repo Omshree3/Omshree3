@@ -102,7 +102,7 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 <div align="center">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+
 
 </div>
 ---

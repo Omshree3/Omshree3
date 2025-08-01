@@ -11,7 +11,8 @@
 
 [![Resume](https://img.shields.io/badge/-My_Resume🔥-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./Omshree_Chinni_Resume.pdf)
 
-   
+   [![Resume](https://img.shields.io/badge/-My_Resume🔥-FF5733?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Omshree3/Omshree3/blob/main/Omshree_Chinni_Resume.pdf)
+
 
 ---
 [![Hire Me for Data Science](https://img.shields.io/badge/Hire%20Me-Data%20Scientist-0A66C2?style=flat-square&logo=databricks)](mailto:omshreechinni@gmail.com)

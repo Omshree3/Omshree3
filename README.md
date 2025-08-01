@@ -132,7 +132,7 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 [![GitHub](https://img.shields.io/badge/-Churn_Classification_Project-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Ann-classification-churn-with-deployment)
 
-[![GitHub](https://img.shields.io/badge/-Smartphone_Price_Prediction-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/dual-ml-smartphone-price-prediction)
+[![GitHub](https://img.shields.io/badge/-Phone_Economics-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/dual-ml-smartphone-price-prediction)
 
 [![GitHub](https://img.shields.io/badge/-Student_Performance_App-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Stu-performance-with-deployment)
 

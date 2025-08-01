@@ -136,6 +136,9 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 
 [![GitHub](https://img.shields.io/badge/-Student_Performance_App-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Stu-performance-with-deployment)
 
+[![GitHub](https://img.shields.io/badge/-Smart_Summarize-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/text-summerization)
+
+
 
 
 ---

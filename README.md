@@ -101,10 +101,8 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 ---
 
 <div align="center">
-
-## 🔥 My GitHub Contribution Graph
-
-[![Omshree's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omshree3&theme=github-compact)](https://github.com/omshree-chinni)
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
 
 </div>
 ---

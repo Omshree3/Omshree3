@@ -44,8 +44,8 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 ### 💼 Experience
 
 #### 🧪 ML Intern – AiROBOSOFT Products and Services 
-- Built and maintained **end-to-end ML pipelines**
-- Involved in **data preprocessing, model training, and evaluation**
+-  **Working on end to end ML methodology**
+- Improved **accuracy models** like Random Forest and XGBoost.
 
 #### 🧹 Data Cleaning Freelancer 
 - Cleaned real-world datasets by removing nulls, fixing formatting issues
@@ -60,7 +60,7 @@ I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and *
 ### 🏅 Achievements
 
 - ✅ **Qualified GATE (2025)** – AIR 3354 **(IIT Roorkee)**
-- 🌱 **IoT Project** – Automated Gutter Cleaning System recognized under *Swachh Bharat Abhiyan*
+- 🌱 **IoT Project** – Automated Gutter Cleaning System **Swachh Bharat Abhiyan** initiative and implemented in **Ichalkaranji town** 
 - 📈 Self-taught Data Scientist with practical knowledge of Python and ML libraries
 
 ---

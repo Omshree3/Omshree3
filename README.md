@@ -31,7 +31,7 @@
 
 ### 🌟 About Me
 
-I'm **Omshree Chinni**, a driven learner passionate about **Data Science** and **Machine Learning**. With a solid academic background (**CGPA 8.1**) and a **GATE Qualifier (AIR 3354)**,  I'm on a mission to turn data into meaningful, real-world solutions through hands-on projects, freelancing, and internships.
+I worked as a Junior Data Scientist at Digitap.AI, where I contributed to the development of machine learning models for fraud detection and credit risk assessment in the fintech domain. My responsibilities included data cleaning, preprocessing, and feature engineering on large transactional and behavioral datasets. I used Python, SQL, and libraries such as pandas, NumPy, and scikit-learn to build and evaluate models. I also collaborated with cross-functional teams to integrate data insights into business workflows and created visual dashboards and reports to effectively communicate findings to stakeholders..
 
 - 🧠 Strong problem-solving mindset with a passion for real-world impact  
 - 📊 Skilled in data cleaning, feature engineering, model building  

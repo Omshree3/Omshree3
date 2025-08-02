@@ -42,9 +42,9 @@ I worked as a Junior Data Scientist at Digitap.AI, where I contributed to the de
 
 ### 💼 Experience
 
-#### 🧪 ML Intern – AiROBOSOFT Products and Services 
+#### 🧪ex-Digitap.ai
 -  **Working on end to end ML methodology**
-- Improved **accuracy models** like Random Forest and XGBoost.
+- Worked on end-to-end ML pipeline: data preprocessing, model building, evaluation, and deployment using Python and ML libraries.
 
 #### 🧹 Data Cleaning Freelancer 
 - Cleaned real-world datasets by removing nulls, fixing formatting issues

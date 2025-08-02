@@ -2,6 +2,7 @@
 <div align="center">
 
  #   👋 Hi, I'm Omshree Chinni
+###  ex-Digitap.ai 
 
 ####  Building the Future with AI/ML and Data_Scientist
 

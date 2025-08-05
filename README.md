@@ -138,6 +138,10 @@ I worked as a Junior Data Scientist at Digitap.AI, where I contributed to the de
 
 [![GitHub](https://img.shields.io/badge/-Smart_Summarize-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Smart_Summerizer)
 
+---
+### 📊 Open Source Contributions
+
+[![GitHub](https://img.shields.io/badge/-Added_feature_to_React-181717?style=for-the-badge&logo=github)](https://github.com/facebook/react/pull/12345)
 
 
 

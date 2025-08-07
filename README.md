@@ -130,9 +130,11 @@ I worked as a Junior Data Scientist at Digitap.AI, where I contributed to the de
 ---
 ### 📊 Projects
 
-### 📊 End to End ml project with deployment
+### 📊 Machine learning project with deployment
 
 [![GitHub](https://img.shields.io/badge/-Churn_Classification_Project-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/Ann-classification-churn-with-deployment)
+
+### 📊 End to End ml project with deployment
 
 [![GitHub](https://img.shields.io/badge/-Student_Performance_App-181717?style=for-the-badge&logo=github)](https://github.com/Omshree3/end-to-end-ml-project-deployed)
 

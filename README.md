@@ -4,15 +4,15 @@
  #   👋 Hi, I'm Omshree Chinni
 ###  ex-bvens
 
-####  JAVA DEVELOPER
+####  DATA ENGINEER
 
    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=DATA_ENGINEER;Always+Learning+and+Building)
 
-[![Resume](https://img.shields.io/badge/-My_Resume🔥-FF5733?style=for-the-badge&logo=firefox)](https://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+[![Resume](https://img.shields.io/badge/-My_Resume🔥-FF5733?style=for-the-badge&logo=firefox)]([ttps://app.enhancv.com/share/1bf8adac/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/7dcb9313/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic))
 
 
 ---
-[![Hire Me for Data Science](https://img.shields.io/badge/Hire%20Me-JAVA%DEVELOPER-0A66C2?style=flat-square&logo=databricks)](mailto:omshreechinni@gmail.com)
+[![Hire Me for Data Science](https://img.shields.io/badge/Hire%20Me-DATA%ENGINEER-0A66C2?style=flat-square&logo=databricks)](mailto:omshreechinni@gmail.com)
 
 
 ---

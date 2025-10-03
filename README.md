@@ -31,20 +31,21 @@
 
 ### 🌟 About Me
 
-I worked as a Junior Data Scientist at Digitap.AI, where I contributed to the development of machine learning models for fraud detection and credit risk assessment in the fintech domain. My responsibilities included data cleaning, preprocessing, and feature engineering on large transactional and behavioral datasets. I used Python, SQL, and libraries such as pandas, NumPy, and scikit-learn to build and evaluate models. I also collaborated with cross-functional teams to integrate data insights into business workflows and created visual dashboards and reports to effectively communicate findings to stakeholders..
+Data Engineer & Python Developer with 1+ years of experience building scalable ETL pipelines and data workflows using Python, SQL, PySpark, and AWS. Skilled in AWS S3, Redshift, and Apache Airflow, with hands-on experience processing large datasets, automating workflows, and delivering cloud-based analytics solutions.
 
 - 🧠 Strong problem-solving mindset with a passion for real-world impact  
 - 📊 Skilled in data cleaning, feature engineering, model building  
-- 🔧 Tools: Python, pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib  
-- 📚 Actively learning Deep Learning, NLP, and deployment
+- 🔧 Tools: Python, pandas, PySpark, and AWS  
+- 📚 Actively learning aws
 
 ---
 
 ### 💼 Experience
 
-#### 🧪ex-Digitap.ai
--  **Working on end to end ML methodology**
-- Worked on end-to-end ML pipeline: data preprocessing, model building, evaluation, and deployment using Python and ML libraries.
+#### 🧪BOVEN TECHNOLOGIES PVT LTD
+-  **Boven Technologies PVT LTD Bangalore**
+- Improved data processing efficiency by {20%} by assisting in developing small ETL pipelines.
+Helped support data migration to cloud infrastructur
 
 #### 🧹 Data Cleaning Freelancer 
 - Cleaned real-world datasets by removing nulls, fixing formatting issues

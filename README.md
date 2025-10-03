@@ -12,7 +12,7 @@
 
 
 ---
-[![Hire Me for Data Science](https://img.shields.io/badge/Hire%20Me-DATA%ENGINEER-0A66C2?style=flat-square&logo=databricks)](mailto:omshreechinni@gmail.com)
+[![Hire Me for data engineer](https://img.shields.io/badge/Hire%20Me-DATA%ENGINEER-0A66C2?style=flat-square&logo=databricks)](mailto:omshreechinni@gmail.com)
 
 
 ---

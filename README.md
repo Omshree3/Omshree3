@@ -31,7 +31,7 @@
 
 ### 🌟 About Me
 
-Data Engineer & Python Developer with 1+ years of experience building scalable ETL pipelines and data workflows using Python, SQL, PySpark, and AWS. Skilled in AWS S3, Redshift, and Apache Airflow, with hands-on experience processing large datasets, automating workflows, and delivering cloud-based analytics solutions.
+Data Engineer & Python Developer with internship experience building scalable ETL pipelines and data workflows using Python, SQL, PySpark, and AWS. Skilled in AWS S3, Redshift, and Apache Airflow, with hands-on experience processing large datasets, automating workflows, and delivering cloud-based analytics solutions.
 
 - 🧠 Strong problem-solving mindset with a passion for real-world impact  
 - 📊 Skilled in data cleaning, feature engineering, model building  
@@ -42,8 +42,8 @@ Data Engineer & Python Developer with 1+ years of experience building scalable E
 
 ### 💼 Experience
 
-#### 🧪BOVEN TECHNOLOGIES PVT LTD
--  **Boven Technologies PVT LTD Bangalore**
+#### 🧪Ibrowsjobs TECHNOLOGIES PVT LTD
+-  **Ibrowsjobs Technologies PVT LTD Bangalore**
 - Improved data processing efficiency by {20%} by assisting in developing small ETL pipelines.
 Helped support data migration to cloud infrastructur
 
